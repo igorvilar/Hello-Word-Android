@@ -15,5 +15,11 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!" />
+        android:text="Label"
+        android:textSize="21dp"
+        android:textAlignment="center"
+        android:id="@+id/textHome"
+        android:textColor="#ff0d0d"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
 </RelativeLayout>
